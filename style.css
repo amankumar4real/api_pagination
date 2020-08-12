@@ -1,0 +1,50 @@
+.search{
+    height: 50vh;
+    width: 100vh;
+}
+
+.result{
+    height: 50vh;
+    width: 100vh;
+}
+
+img{
+    padding: 20px;
+    margin: auto;
+}
+
+button{
+    background-color: teal;
+    padding: 6px;
+    border-radius: 4px;
+    border: solid black;
+    margin: 5px;
+}
+
+#results{
+    background-color: rgb(241, 213, 192);
+    text-align: center;
+}
+
+#pagination{
+    text-align: center;
+    margin-top: 30px;
+}
+
+input{
+    padding: 10px;
+    border-top-left-radius: 17px;
+    border-bottom-left-radius: 17px;
+    border-top-right-radius: 17px;
+    border-bottom-right-radius: 17px;
+    width:  250px;
+}
+
+.search{
+    margin: auto;
+}
+
+#here{
+    margin-left: 200px;
+    margin-top: 150px;
+}
